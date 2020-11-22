@@ -17,7 +17,7 @@ Servicio REST desarrollado con Spring. Contiene la lógica de los alumnos con su
 ![nuevo alumno](https://user-images.githubusercontent.com/63039556/99914924-5e847400-2cdf-11eb-84a8-084e6f8fdb32.png)
 ![nuevo alumno token](https://user-images.githubusercontent.com/63039556/99914926-5fb5a100-2cdf-11eb-88fa-c229d3904420.png)
 
-##Obtener la lista de todos los alumnos
+## Obtener la lista de todos los alumnos
 ![get alumnos](https://user-images.githubusercontent.com/63039556/99914950-7fe56000-2cdf-11eb-88ea-bc738e5c63bf.png)
 
 # Construido con...
