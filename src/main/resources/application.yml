@@ -1,0 +1,13 @@
+security:
+  jwt:
+    token:
+      secret-key: ApiAlumnos-SecretKey
+      expire-length: 3600000
+      
+logging:
+  file:
+    name: app.log
+    max-size: 10MB
+server:
+  port: 8888
+    
